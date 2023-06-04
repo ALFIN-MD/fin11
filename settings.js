@@ -12,7 +12,7 @@ global.OpenAIKey = "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" //login
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: '5H6xtCGcuCcSdWj', //apabila link api eror, segera laporkan ke owner
 }
 
 //buy apikey premium 0887435047326
